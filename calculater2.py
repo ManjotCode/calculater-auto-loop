@@ -4,5 +4,5 @@ print("Division /","Floor Division //","Multiplication *" ,"Expoention **", "Rem
 while calculate:
     print("Use pi as pi","use Square root as sqrt()", sep='\n')
     #getint input
-    inp=eval(input("Write your equation: "))
-    print(inp)
+    ans=eval(input("Write your equation: "))
+    print(ans)
